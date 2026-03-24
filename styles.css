@@ -553,26 +553,6 @@ a:hover {
   font-weight: 600;
 }
 
-.table-card {
-  display: grid;
-  gap: 0.9rem;
-  margin-top: 1.5rem;
-}
-
-.table-card__row {
-  background: #f1f5ff;
-  border-radius: 12px;
-  padding: 1rem 1.2rem;
-  display: flex;
-  flex-direction: column;
-  gap: 0.4rem;
-  color: var(--color-muted);
-}
-
-.table-card__row strong {
-  color: var(--color-primary-dark);
-}
-
 .link-grid {
   display: grid;
   gap: 1.25rem;
@@ -637,10 +617,6 @@ a:hover {
   .spec-list__row {
     flex-direction: column;
     align-items: flex-start;
-  }
-
-  .table-card__row {
-    padding: 0.9rem 1rem;
   }
 
   .hero-actions {
