@@ -35,3 +35,4 @@
 - [Đá khô CO₂ trong vận chuyển và bảo quản lạnh](https://www.tanphuchung.com/ung-dung/da-kho-trong-van-chuyen-bao-quan.html): Vận chuyển vaccine, hải sản, thực phẩm đông lạnh bằng đá khô, cách tính liều lượng.
 - [Khí Nitơ trong bảo quản thực phẩm](https://www.tanphuchung.com/ung-dung/khi-nito-trong-bao-quan-thuc-pham.html): Công nghệ MAP, IQF, đóng gói N₂ giữ tươi thực phẩm, bảo quản cà phê, hạt giống.
 - [Van chỉnh khí & đồng hồ đo áp Argon, CO₂, O₂, N₂](https://www.tanphuchung.com/ung-dung/van-chinh-khi-dong-ho-argon-co2-oxy-nito.html): Hướng dẫn chọn van điều áp và đồng hồ đo áp theo từng loại khí, tiêu chuẩn CGA, lắp đặt an toàn.
+- [Khí trộn Argon – CO₂ trong hàn MIG/MAG](https://www.tanphuchung.com/ung-dung/khi-tron-argon-co2-trong-han-mig-mag.html): Tỉ lệ pha Ar/CO₂ phổ biến (80/20, 90/10, 75/25), so sánh với CO₂ nguyên chất, hướng dẫn chọn tỉ lệ theo loại thép.
