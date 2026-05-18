@@ -322,6 +322,12 @@ a:hover {
   }
 }
 
+@media (max-width: 900px) {
+  .hero {
+    background: linear-gradient(120deg, rgba(0, 86, 179, 0.9), rgba(0, 63, 128, 0.9));
+  }
+}
+
 @media (max-width: 640px) {
   .hero {
     min-height: 60vh;
