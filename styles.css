@@ -559,6 +559,27 @@ a:hover {
   font-weight: 600;
 }
 
+.article-media {
+  margin: 0;
+  background: var(--color-light);
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 12px 28px rgba(15, 29, 43, 0.12);
+  border: 1px solid rgba(0, 86, 179, 0.08);
+}
+
+.article-media img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.article-media figcaption {
+  padding: 0.85rem 1rem;
+  font-size: 0.9rem;
+  color: var(--color-muted);
+}
+
 .link-grid {
   display: grid;
   gap: 1.25rem;
